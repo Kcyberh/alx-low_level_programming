@@ -2,7 +2,7 @@
 
 /**
  * main - Test Function for positive or negative
- * Return : 0
+ * Return: Always (sucess)
  */
 int main(void)
 {
