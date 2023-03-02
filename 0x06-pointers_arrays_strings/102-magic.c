@@ -6,7 +6,7 @@ int main(void)
         int *p;
 
         a[2] = 1024;
-        p = &n
+        p = &n;
 /**
  * main - prints a[2] = 98.
  * You are not allowed to use the variable a in your new line of code
