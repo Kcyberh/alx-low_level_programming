@@ -25,6 +25,7 @@ char rot13key[52] = {'N', 'O', 'P', 'Q', 'R', 'S',
 		'x', 'y', 'z', 'a', 'b', 'c',
 		'd', 'e', 'f', 'g', 'h', 'i',
 		'j', 'k', 'l', 'm'};
+while (str[indx1])
 {
 for (indx2 = 0; indx2 < 52; indx2++)
 {
