@@ -45,7 +45,7 @@ void copy_file(const char *file1, char *file2)
 			}
 		}
 	}
-fc1 = close(f1);
+fc1 = close(fl1);
 if (fc1 == -1)
 	dprintf(ER, "Error: Can't Close fn %d\n", fc1), exit(100);
 fc2 = close(fl2);
